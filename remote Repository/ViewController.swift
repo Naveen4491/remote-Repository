@@ -18,5 +18,12 @@ class ViewController: UIViewController {
         print("Sachin")
     }
 
+    
+    
+    
+    override func viewDidLayoutSubviews() {
+        print("ten")
+    }
+    
 }
 
